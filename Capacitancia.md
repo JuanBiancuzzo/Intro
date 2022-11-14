@@ -1,5 +1,5 @@
 **Definicion:**
-"La cpacitancia ($C$) es la propiedad del [[Capacitor]] que representa la energía que este almacena.
+"La capacitancia ($C$) es la propiedad del [[Capacitor]] que representa la energía que este almacena.
 No depende ni de la carga ni de la tensión aplicada. Depende exclusivamente de la geometría y el material aislante."
 Entonces, por ejemplo, para un capacitor de placas planas paralelas:
 $$\begin{align}

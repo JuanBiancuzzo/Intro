@@ -11,8 +11,12 @@
             "id": "5ceaca085d5afd7e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Capacitancia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Capacitancia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Capacitancia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Capacitancia.md"
+              }
             }
           }
         ]
@@ -129,5 +137,9 @@
     "collapsed": true
   },
   "active": "5ceaca085d5afd7e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Principio de superposicion.md",
+    "Potencia disipada.md",
+    "Capacitancia.md"
+  ]
 }
