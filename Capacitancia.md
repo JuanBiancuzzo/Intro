@@ -5,7 +5,7 @@ Entonces, por ejemplo, para un capacitor de placas planas paralelas:
 $$\begin{align}
 C = \frac{\epsilon \cdot A}{d}
 \end{align}$$
-HolaDonde:
+Donde:
 $$ 
 \left\{ 
 \begin{array}{ l } 
