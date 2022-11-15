@@ -6,3 +6,15 @@ $$
 R_\text{Th} = R_\text{carga}
 \end{align}
 $$
+
+**Esquematizacion:**
+
+![[Pasted image 20221114214118.png]]
+
+**Analisis:**
+Calculo la potencia entregada a la carga con la formula de [[potencia disipada]]:
+$$
+\begin{align}
+P = V_ \cdot I
+\end{align}
+$$

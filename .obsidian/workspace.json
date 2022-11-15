@@ -138,15 +138,15 @@
   },
   "active": "54652052d85b9544",
   "lastOpenFiles": [
-    "Teorema de Thevenin.md",
+    "Resistencia.md",
+    "Potencia disipada.md",
     "Teorema de maxima transferencia de potencia.md",
-    "Capacitancia.md",
-    "Potencia nominal.md",
-    "Divisor de tension.md",
     "Potencia.md",
-    "Filtro RC.md",
-    "Tiempo de crecimiento.md",
-    "Resistores equivalentes.md",
-    "Resistor.md"
+    "Circuito RC.md",
+    "Mallas.md",
+    "Incertidumbre.md",
+    "Teorema de Thevenin.md",
+    "Capacitancia.md",
+    "Potencia nominal.md"
   ]
 }
