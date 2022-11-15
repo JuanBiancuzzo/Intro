@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "29301efa674be38b",
+        "id": "21a2bc569f65f6b7",
         "type": "tabs",
         "children": [
           {
-            "id": "5ceaca085d5afd7e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9140ad4a5832eb16",
+            "id": "54652052d85b9544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capacitancia.md",
+                "file": "Teorema de maxima transferencia de potencia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacitancia.md",
+                "file": "Teorema de maxima transferencia de potencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capacitancia.md",
+                "file": "Teorema de maxima transferencia de potencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capacitancia.md"
+                "file": "Teorema de maxima transferencia de potencia.md"
               }
             }
           }
@@ -145,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9140ad4a5832eb16",
+  "active": "54652052d85b9544",
   "lastOpenFiles": [
-    "Tiempo de crecimiento.md",
     "Teorema de Thevenin.md",
+    "Teorema de maxima transferencia de potencia.md",
+    "Capacitancia.md",
+    "Potencia nominal.md",
+    "Divisor de tension.md",
+    "Potencia.md",
+    "Filtro RC.md",
+    "Tiempo de crecimiento.md",
     "Resistores equivalentes.md",
-    "Resistor.md",
-    "Resistencia.md",
-    "Relacion entre corriente y tension en un capacitor.md",
-    "Capacitor.md",
-    "Diferencia de potencial.md",
-    "Principio de superposicion.md",
-    "Potencia.md"
+    "Resistor.md"
   ]
 }
