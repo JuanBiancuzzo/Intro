@@ -48,3 +48,19 @@ P_\text{carga} &= \frac{V_\text{Th}^2}{4 \cdot R_\text{Th}}
 \end{align}
 $$
 Y si hicieramos lo mismo para calcular la potencia disipada por el $R_\text{Th}$, nos daria el mismo valor.
+Entonces, entendiendo que:
+$$ 
+\left\{ 
+\begin{array}{ l } 
+P_\text{salida} &= P_\text{carga} = \frac{V_\text{Th}^2}{4 \cdot R_\text{Th}} \\
+P_\text{entrada} &= P_\text{salida} + P_\text{perdida} = \frac{V_\text{Th}^2}{4 \cdot R_\text{Th}} + \frac{V_\text{Th}^2}{4 \cdot R_\text{Th}} \\
+\end{array} \right.
+$$
+Entonces, podemos definir al [[rendimiento]] como:
+$$
+\begin{align}
+\eta = \frac{P_\text{salida}}{P_\text{entrada}} \cdot 100 \%
+\end{align} = \frac{\frac{V_\text{Th}^2}{4 \cdot R_\text{Th}}}{\frac{V_\text{Th}^2}{4 \cdot R_\text{Th}} + \frac{V_\text{Th}^2}{4 \cdot R_\text{Th}}} \cdot 100 \%= 50 \%
+$$
+Es decir, se pierde la mitad de la potencia entregada por la fuente.
+

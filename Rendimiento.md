@@ -6,6 +6,6 @@
 ---
 $$
 \begin{align}
-\eta = \frac{P_\text{salida}}{P_\text{entrada}} \cdot 100
+\eta = \frac{P_\text{salida}}{P_\text{entrada}} \cdot 100 \%
 \end{align}
 $$
