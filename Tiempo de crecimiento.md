@@ -1,5 +1,5 @@
 **Definicion:**
-"Se define el tiempo de crecimiento (rise time) como el intervalo de tiempo que tarda la [[Diferencia de potencial]] en pasar del $10\%$ al $90\%$ del máximo valor."
+"Se define el tiempo de crecimiento (rise time) como el intervalo de tiempo que tarda la [[diferencia de potencial]] en pasar del $10\%$ al $90\%$ del máximo valor."
 
 **Expresion:**
 $$\begin{align}
@@ -13,7 +13,7 @@ t_1 = t (10\%)\\
 t_2 = t (90\%)\\
 \end{array} \right.
 $$
-Notar que depende de la [[Constante de tiempo]].
+Notar que depende de la [[constante de tiempo]].
 Entonces, esquematizandolo:
 
 ![[Pasted image 20221114140858.png]]

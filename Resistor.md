@@ -1,5 +1,5 @@
 **Definicion:**
-"Es el elemento que introduce una [[Resistencia]] en un circuito electrico."
+"Es el elemento que introduce una [[resistencia]] en un circuito electrico."
 
 **Simbologia:**
 

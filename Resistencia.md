@@ -1,5 +1,5 @@
 **Definicion:**
-"La resistencia electrica de un componente es una magnitud que representa la oposicion a la circulacion de [[Corriente]] de dicho componente.""
+"La resistencia electrica de un componente es una magnitud que representa la oposicion a la circulacion de [[corriente]] de dicho componente.""
 
 **Unidad:**
 $$

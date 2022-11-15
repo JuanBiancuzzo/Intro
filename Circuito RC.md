@@ -1,12 +1,12 @@
 **Definicion:**
-"Un circuito RC de primer orden es un circuito eléctrico compuesto de un [[Resistor]] y un [[Capacitor]]."
+"Un circuito RC de primer orden es un circuito eléctrico compuesto de un [[resistor]] y un [[capacitor]]."
 
 **Esquematizacion 1:**
 
 ![[Pasted image 20221114123225.png]]
 
 **Analisis:**
-Al cerrar la llave (en el instante $t=0$), por [[Leyes de Kirchhoff]] de [[Mallas]], se puede deducir que:
+Al cerrar la llave (en el instante $t=0$), por [[Leyes de Kirchhoff]] de [[mallas]], se puede deducir que:
 $$\begin{align}
 V_0 (t)= V_R (t) + V_C (t)
 \end{align}
@@ -16,7 +16,7 @@ $$\begin{align}
 V_0 (t)= i(t) \cdot R + V_C (t)
 \end{align}
 $$
-Y, sabiendo de la [[Relacion entre corriente y tension en un capacitor]]:
+Y, sabiendo de la [[relacion entre corriente y tension en un capacitor]]:
 $$\begin{align}
 i(t) = C \cdot \frac{dV_C(t)}{dt}
 \end{align}
@@ -62,7 +62,7 @@ V_C (t)&= V_0 \cdot (1 - e^\text{-t/RC})\\
 i(t) &= C \cdot \frac{dV_C(t)}{dt}\\
 \end{array} \right.
 $$
-Entonces, la [[Corriente]] sobre el capacitor en función del tiempo:
+Entonces, la [[corriente]] sobre el capacitor en función del tiempo:
 $$\begin{align}
 i(t) &= \frac{V_0}{R} \cdot e^\text{-t/RC}\\
 \end{align}

@@ -1,5 +1,5 @@
 **Definicion:** 
-"Es aquella que genera una intensidad de [[Corriente]] entre sus terminales constante e independiente de la carga."
+"Es aquella que genera una intensidad de [[corriente]] entre sus terminales constante e independiente de la carga."
 
 **Simbologia:**
 

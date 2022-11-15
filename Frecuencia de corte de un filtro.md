@@ -6,8 +6,8 @@ Se calcula como:
 $$\begin{align}
 f_\text{corte} = \frac{1}{2 \pi \cdot R \cdot C} = \frac{1}{2 \pi \cdot \tau} 
 \end{align}$$
-Notar que depende de la [[Constante de tiempo]].
-Ademas, la frecuencia de corte es la frecuencia a la cual la [[Ganancia]] se reduce a 0.707 de su valor maximo.
+Notar que depende de la [[constante de tiempo]].
+Ademas, la frecuencia de corte es la frecuencia a la cual la [[ganancia]] se reduce a 0.707 de su valor maximo.
 Es decir, que:
 $$\begin{align}
 G (f_\text{corte})= \frac{V_0}{V_i}(f_\text{corte})=\frac{1}{\sqrt{2}}

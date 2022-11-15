@@ -1,5 +1,5 @@
 **Definicion:**
-"Un Divisor de tension es un circuito que divide la [[Diferencia de potencial]] de entrada en el circuito en otras dos diferentes y más pequeñas de salida."
+"Un Divisor de tension es un circuito que divide la [[diferencia de potencial]] de entrada en el circuito en otras dos diferentes y más pequeñas de salida."
 Es decir, de:
 
 ![[Pasted image 20221114010155.png]]

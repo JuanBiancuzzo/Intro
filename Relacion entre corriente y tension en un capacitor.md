@@ -1,4 +1,4 @@
-De la relacion que define a la [[Capacitancia]]:
+De la relacion que define a la [[capacitancia]]:
 $$\begin{align}
 C &= \frac{q}{V_C}\\
 q &= C \cdot V_C
@@ -15,8 +15,8 @@ Ahora, sabiendo que:
 $$\begin{align}
 i(t) = \frac{dq(t)}{dt}
 \end{align}$$
-Entonces, la relación entre [[Diferencia de potencial]] y [[Corriente]] en un capacitor está dada por:
+Entonces, la relación entre [[diferencia de potencial]] y [[corriente]] en un capacitor está dada por:
 $$\begin{align}
 i(t) &= C \cdot \frac{dV_C(t)}{dt}
 \end{align}$$
-De aqui se concluye que el [[Capacitor]] tiene un comportamiento lineal porque la diferenciación es una operación lineal. 
+De aqui se concluye que el [[capacitor]] tiene un comportamiento lineal porque la diferenciación es una operación lineal. 

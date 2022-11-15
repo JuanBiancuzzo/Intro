@@ -1,8 +1,8 @@
 **Definicion:** 
-"Un resistor equivalente es un [[Resistor]] que puede sustituir a otros resistores que se encuentran en un determinado circuito para simplificarlo."
+"Un resistor equivalente es un [[resistor]] que puede sustituir a otros resistores que se encuentran en un determinado circuito para simplificarlo."
 
 **Tipos:**
-1. **Resistores en serie:** Son atravesados por la misma corriente y comparten la misma [[Mallas]].
+1. **Resistores en serie:** Son atravesados por la misma corriente y comparten la misma [[mallas]].
 Es decir, de:
 
 ![[Pasted image 20221114004757.png]]
@@ -14,7 +14,7 @@ R_\text{equivalente} = R_1 + R_2
 \end{align}
 $$
 
-2. Resistores en paralelo: Comparten la misma tensión entre los mismos [[Nodos]].
+2. Resistores en paralelo: Comparten la misma tensión entre los mismos [[nodos]].
 Es decir, de:
 
 ![[Pasted image 20221114004938.png]]
