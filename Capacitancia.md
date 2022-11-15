@@ -15,7 +15,8 @@ d &= Distancia \space entre \space placas \\
 \end{array} \right.
 $$
 
-**Unidad:**
+#### **Unidad:**
+---
 Es decir, que la relacion que define a la capacidad:
 $$\begin{align}
 C = \frac{q}{V_C}
