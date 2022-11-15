@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21a2bc569f65f6b7",
+        "id": "5c312975a9c14fa9",
         "type": "tabs",
         "children": [
           {
-            "id": "54652052d85b9544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teorema de maxima transferencia de potencia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "093fc4b984e1a4ab",
+            "id": "5baa347990777f6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,24 +129,22 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "093fc4b984e1a4ab",
+  "active": "5baa347990777f6c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Teorema de maxima transferencia de potencia.md",
-    "Resistencia.md",
-    "Potencia disipada.md",
-    "Potencia.md",
+    "Img/Pasted image 20221113220440.png",
+    "Diferencia de potencial.md",
+    "Constante de tiempo.md",
     "Circuito RC.md",
-    "Mallas.md",
-    "Incertidumbre.md",
-    "Teorema de Thevenin.md",
+    "Capacitores equivalentes.md",
+    "Capacitor.md",
     "Capacitancia.md"
   ]
 }
