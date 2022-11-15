@@ -1,4 +1,5 @@
-**¿Para que sirven?**
+### **¿Para que sirven?**
+---
 Nos permiten resolver circuitos electricos, es decir, encontrar los valores y sentidos de referencia de tensión y corriente en cada componente del circuito.
 
 **Postulados:**

@@ -1,4 +1,5 @@
-**Postulado:** 
+### **Postulado:** 
+---
 _"El efecto que producen dos o más entradas sobre un [[circuito lineal]] es igual a la suma de los efectos que produce cada entrada por separado."_
 
 **¿Para que sirve?**

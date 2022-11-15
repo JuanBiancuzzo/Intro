@@ -1,4 +1,5 @@
-**Definicion:** 
+### **Definicion:** 
+---
 "El intervalo dentro del cual podemos confiar que se encuentra el valor verdadero de una medición efectuada."
 
 **Calculo de la incertidumbre:**

@@ -1,4 +1,5 @@
-**Definicion:**
+### **Definicion:**
+---
 "Camino recorrido a través de las distintas ramas o componentes del circuito hasta completar un lazo cerrado."
 
 **Esquematizacion:**

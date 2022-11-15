@@ -1,4 +1,5 @@
-**Postulado:** 
+### **Postulado:** 
+---
 _"La [[diferencia de potencial]]$(\Delta V)$ en un [[resistor]] es proporcional a la [[corriente]] ($I$) que lo circula."_
 
 **Ecuacion:** 

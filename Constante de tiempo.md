@@ -1,4 +1,5 @@
-**Definicion:**
+### **Definicion:**
+---
 "La constante de tiempo ($\tau$) es un indicador de la velocidad de reacción del circuito ante una perturbación (debido a un escalón de tensión). Cuanto mayor sea este valor, el valor final del estado de equilibrio se alcanzará más rápidamente."
 
 **Expresion:**

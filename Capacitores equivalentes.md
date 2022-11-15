@@ -1,4 +1,5 @@
-**Definicion:** 
+### **Definicion:** 
+---
 "Un capacitor equivalente es un [[capacitor]] que puede sustituir a otros capacitores que se encuentran en un determinado circuito para simplificarlo."
 
 **Tipos:**

@@ -1,4 +1,5 @@
-**Definicion:**  
+### **Definicion:**  
+---
 "La intensidad de corriente ($I$) es una magnitud fisica que indica la cantidad de cargas que atraviesan la seccion de un dterminado conductor por unidad de tiempo."
 Es decir,
 $$

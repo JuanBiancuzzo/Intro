@@ -1,4 +1,5 @@
-**Definicion:**
+### **Definicion:**
+---
 "El [[circuito RC]] es uno de los [[filtros]] mas basicos que se utilizan para eliminar frecuencias indeseadas."
 
 **Caracteristicas:**

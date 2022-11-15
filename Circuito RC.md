@@ -1,4 +1,5 @@
-**Definicion:**
+### **Definicion:**
+---
 "Un circuito RC de primer orden es un circuito eléctrico compuesto de un [[resistor]] y un [[capacitor]]."
 
 **Esquematizacion 1:**

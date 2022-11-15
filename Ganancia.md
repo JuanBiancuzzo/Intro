@@ -1,4 +1,5 @@
-**Definicion:**
+### **Definicion:**
+---
 "La ganancia es una magnitud que expresa la relación entre la amplitud de una señal de salida respecto a la señal de entrada."
 
 **Expresion:**

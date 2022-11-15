@@ -1,4 +1,5 @@
-**Definicion:** 
+### **Definicion:** 
+---
 "Un resistor equivalente es un [[resistor]] que puede sustituir a otros resistores que se encuentran en un determinado circuito para simplificarlo."
 
 **Tipos:**

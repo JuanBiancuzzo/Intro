@@ -1,4 +1,5 @@
-**Definicion:**
+### **Definicion:**
+---
 "Se define como potencia a la tasa de transferencia de energía por unidad de tiempo."
 Es decir,
 $$

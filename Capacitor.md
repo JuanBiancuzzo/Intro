@@ -1,4 +1,5 @@
-**Definicion:**
+### **Definicion:**
+---
 "El capacitor es un dispositivo electrónico que almacena energía en un campo eléctrico interno."
 
 **Simbologia:**

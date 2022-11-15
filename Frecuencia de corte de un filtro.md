@@ -1,4 +1,5 @@
-**Definicion:**
+### **Definicion:**
+---
 "La frecuencia de corte de un filtro ($f_\text{corte}$) delimita y separa los rangos de lo que se considera las frecuencias que 'pasan' y las que se 'eliminan'."
 
 **Expresiones:**

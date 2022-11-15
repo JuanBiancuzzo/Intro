@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capacitancia.md",
+                "file": "Tiempo de crecimiento.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capacitancia.md",
+                "file": "Tiempo de crecimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capacitancia.md",
+                "file": "Tiempo de crecimiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capacitancia.md"
+                "file": "Tiempo de crecimiento.md"
               }
             }
           }
@@ -139,12 +139,15 @@
   },
   "active": "5baa347990777f6c",
   "lastOpenFiles": [
-    "Img/Pasted image 20221113220440.png",
-    "Diferencia de potencial.md",
-    "Constante de tiempo.md",
-    "Circuito RC.md",
-    "Capacitores equivalentes.md",
-    "Capacitor.md",
-    "Capacitancia.md"
+    "Teorema de Thevenin.md",
+    "Teorema de maxima transferencia de potencia.md",
+    "Resistores equivalentes.md",
+    "Resistor.md",
+    "Resistencia.md",
+    "Relacion entre corriente y tension en un capacitor.md",
+    "Principio de superposicion.md",
+    "Potencia nominal.md",
+    "Potencia disipada.md",
+    "Potencia.md"
   ]
 }
