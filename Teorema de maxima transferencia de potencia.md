@@ -47,3 +47,4 @@ $$
 P_\text{carga} &= \frac{V_\text{Th}^2}{4 \cdot R_\text{Th}}
 \end{align}
 $$
+Y si hicieramos lo mismo para calcular la potencia disipada por el $R_\text{Th}$, nos daria el mismo valor.
