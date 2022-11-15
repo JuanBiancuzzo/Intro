@@ -1,0 +1,9 @@
+### **Definicion:**
+---
+"Se define a la tension promedio ($V_\text{DC}$) como el cociente entre el area bajo la curva y el periodo."
+Es decir,
+$$
+\begin{align}
+V_\text{DC} = \frac{1}{T} \cdot \int_{0}^{T} v(t) \cdot dt
+\end{align}
+$$
