@@ -10,7 +10,6 @@ $$
 
 #### **Esquematizacion:**
 ---
-
 ![[Pasted image 20221114214118.png]]
 
 #### **Analisis:**
@@ -18,6 +17,33 @@ $$
 Calculo la potencia entregada a la carga con la formula de [[potencia disipada]]:
 $$
 \begin{align}
-P = V_ \cdot I
+P_\text{carga} = V_\text{carga} \cdot I_\text{carga}
+\end{align}
+$$
+Sabiendo que, por [[divisor de tension]] y por [[resistores equivalentes]]:
+$$ 
+\left\{ 
+\begin{array}{ l } 
+V_\text{carga} = \frac{V_\text{Th} \cdot R_\text{carga}}{R_\text{Th} + R_\text{carga}} \\
+I_\text{carga} = \frac{V_\text{Th}}{R_\text{Th} + R_\text{carga}}\\
+\end{array} \right.
+$$
+Entonces:
+$$
+\begin{align}
+P_\text{carga} &= \frac{V_\text{Th} \cdot R_\text{carga}}{R_\text{Th} + R_\text{carga}} \cdot \frac{V_\text{Th}}{R_\text{Th} + R_\text{carga}}\\
+P_\text{carga} &= \frac{V_\text{Th}^2 \cdot R_\text{carga}}{(R_\text{Th} + R_\text{carga})^2}
+\end{align}
+$$
+Y como el teorema establece que:
+$$
+\begin{align}
+R_\text{Th} = R_\text{carga}
+\end{align}
+$$
+Se concluye que:
+$$
+\begin{align}
+P_\text{carga} &= \frac{V_\text{Th}^2}{4 \cdot R_\text{Th}}
 \end{align}
 $$

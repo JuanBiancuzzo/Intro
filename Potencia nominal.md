@@ -4,6 +4,4 @@
 
 **Caracteristicas:**
 - A mayor resistor, mayor potencia nominal.
-- Generalmente, su valor viene indicado en el resistor.: Potencia que
-puede disipar el resistor sin sufrir
-deterioro.
+- Generalmente, su valor viene indicado en el resistor.
