@@ -25,15 +25,22 @@ $$
 |v(t) - V_\text{DC}|
 \end{align}
 $$
-3. Se computa el valor medio:
+3. Se computa el valor medio rectificado ($V_{mr}$) como:
 $$
 \begin{align}
-\frac{1}{T} \cdot \int_{0}^{T} |v(t) - V_\text{DC}| \cdot dt
+V_{mr} =\frac{1}{T} \cdot \int_{0}^{T} |v(t) - V_\text{DC}| \cdot dt
 \end{align}
 $$
-4. Se multiplica por el valor de forma senoidal (que tiene un valor de $1.11$):
+4. Ahora, sabiendo que el [[factor de forma]] senoidal es:
 $$
 \begin{align}
-V_{AC} = 1.11 \cdot \frac{1}{T} \cdot \int_{0}^{T} |v(t) - V_\text{DC}| \cdot dt
+\alpha_{senoidal} = \frac{V_{AC_{senoidal}}}{V_{mr_{senoidal}}} = \frac{A/\sqrt{2}}{2A/\pi} = \frac{\pi}{2\sqrt{2}} \approx 1.11
 \end{align}
 $$
+5. Lo multiplico por el $V_{mr}$, para asi:
+$$
+\begin{align}
+V_{AC} = 1.11 \cdot V_{mr}
+\end{align}
+$$
+Notar que esto es unicamente valido para señales senoidales.
